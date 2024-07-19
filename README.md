@@ -19,5 +19,15 @@ $ go install github.com/tomnomnom/waybackurls@latest
 ## For Bhedak installation, use this command:
 $ pip3 install bhedak
 ```
+### Usage XSpear script:
+```
+# Clone this repo
+$ git clone https://github.com/hackerhijeck/XSpear.git
+# Go to the Directory
+$ chmod +x XSpear.sh
+# Usage
+$ ./XSpear.sh domains.txt
+(domains.txt= list of domains)
+```
 
 <a href="https://github.com/hahwul/XSpear">Official XSpear Github Link</a>
