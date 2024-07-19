@@ -6,6 +6,7 @@
 ```
 ## For XSpear installation, use the install.sh script or otherwise use this commands:
 $ gem install XSpear
+
 ## For libraries, use this commands:
 $ gem install colorize
 $ gem install selenium-webdriver
