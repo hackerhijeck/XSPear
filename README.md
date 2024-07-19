@@ -1,6 +1,6 @@
 # XSpear Tool
 
 
-### This script for automate with multiple domains to find XSS vulnerabilities using XSpear.
+### This script uses XSpear, Waybackurls, and Bhedak to scan multiple domains for XSS vulnerabilities.
 
 <a href="https://github.com/hahwul/XSpear">Official XSpear Github Link</a>
